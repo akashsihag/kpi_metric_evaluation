@@ -1,0 +1,30 @@
+{ 
+    "kpi_engine": {
+        "tables": [
+            {
+            "df_name": "table1",
+            "readDIS": {
+                "columns": {
+                    "col1": "col1",
+                    "col2": "col2"
+                }
+            },
+            "table_name": "table1"
+        },
+        {
+            "df_name": "table2",
+            "readDIS": {
+                "columns": {
+                }
+            },
+            "table_name": "table1"
+        },
+        {
+            "df_name": "table3",
+            "readDIS": {
+                "columns": {
+                }
+            },
+            "table_name": "table1"
+        }
+}

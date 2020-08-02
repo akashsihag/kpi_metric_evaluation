@@ -1,0 +1,13 @@
+# modules
+import kpi.market_kpi.market_y.allocation_digital
+import kpi.market_kpi.market_y.allocation_traditional
+import kpi.market_kpi.market_y.cost_digital
+import kpi.market_kpi.market_y.cost_traditional
+import kpi.market_kpi.market_y.customer_impact_digital
+import kpi.market_kpi.market_y.customer_impact_traditional
+import kpi.market_kpi.market_y.fraud_digital
+import kpi.market_kpi.market_y.fraud_traditional
+import kpi.market_kpi.market_y.redemption_digital
+import kpi.market_kpi.market_y.redemption_traditional
+import kpi.market_kpi.market_y.uplift_digital
+import kpi.market_kpi.market_y.uplift_traditional
