@@ -1,0 +1,17 @@
+KPI Engine directroy structure:
+
+    1.) runkpi 
+    2.) kpi/
+        1.) allocation
+        2.) cost
+        3.) customer_impact
+        4.) redemption
+        5.) fraud
+        6.) module
+    3.) utilities/
+        1.) utils
+    4.) data/
+        1.) appuser_20171029.csv
+    5.) market_x.py
+    6.) README.md
+    
